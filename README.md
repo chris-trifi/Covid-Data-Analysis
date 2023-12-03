@@ -1,6 +1,6 @@
 # COVID Data Analysis
 
-Welcome to the COVID Data Analysis project, a comprehensive exploration conducted as part of the 'Data Analysis' course at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki (2022). This repository consists of a comprehensive analyses of COVID-19 data, offering a nuanced perspective on the pandemic's impact.
+Welcome to the COVID Data Analysis project, a comprehensive exploration conducted as part of the 'Data Analysis' course at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki (2022). This repository features a set of Matlab scripts, used to analyse various COVID-19 data.
 
 ## Project Highlights
 

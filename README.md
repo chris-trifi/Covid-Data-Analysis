@@ -1,13 +1,37 @@
-# Covid-Data-Analysis
-Project done for 'data analysis' course of Electrical and Computer Engineering department AUTH (2022)
+# COVID Data Analysis
 
-Ex1: Distribution of positivity rates for Europe. Fit into known distributions
-Ex2: Kolmogorov-Smirnov test on positivity rate distributions of different time intervals (Bootstrap calculation of the statistic)
-Ex3: Comparing Greek positivity rates to European positivity rates for a 12-week period. (using bootstrap and a=5%)
-Ex4: Using parametric and bootstrap test to find out if the positivity rates changed significantly in 2021 compared to 2020.(in 5 countries)
-Ex5: Parametric and bootstrap significance test of correlation coefficients for positivity rates in pairs of countries. 
-Ex6: Bootstrap test the equivalence of the correlation coefficients for two pairs of countries.
-Ex7: Try and compare regression models that predict deaths based on positivity rates in the previous weeks.
-Ex8: Using positivity rates of previous days to predict deaths in Greece and apply PCA to reduce feature dimensions.
-Ex9: Using 5-fold cross validation to evaluate the model of Ex8.
-Ex10: Using number of tubed patients in previous days to predict deaths. (With PCA)
+Welcome to the COVID Data Analysis project, a comprehensive exploration conducted as part of the 'Data Analysis' course at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki (2022). This repository consists of a comprehensive analyses of COVID-19 data, offering a nuanced perspective on the pandemic's impact.
+
+## Project Highlights
+
+### Ex1: Distribution of Positivity Rates for Europe
+Explore and fit positivity rates into known distributions across Europe.
+
+### Ex2: Kolmogorov-Smirnov Test
+Conduct Kolmogorov-Smirnov tests on positivity rate distributions across different time intervals, incorporating Bootstrap calculations for statistical significance.
+
+### Ex3: Comparative Analysis of Greek Positivity Rates
+Compare Greek positivity rates to European rates over a 12-week period, utilizing Bootstrap methods with a significance level of 5%.
+
+### Ex4: Temporal Changes in Positivity Rates
+Investigate if positivity rates significantly changed in 2021 compared to 2020 in five different countries, employing parametric and bootstrap tests.
+
+### Ex5: Correlation Coefficient Significance Tests
+Conduct significance tests, both parametric and bootstrap, on correlation coefficients between positivity rates in pairs of countries.
+
+### Ex6: Equivalence of Correlation Coefficients
+Utilize bootstrap tests to assess the equivalence of correlation coefficients for two pairs of countries.
+
+### Ex7: Regression Model Comparison
+Explore and compare regression models predicting deaths based on positivity rates in preceding weeks.
+
+### Ex8: Predicting Deaths in Greece
+Utilize positivity rates from previous days to predict deaths in Greece, applying PCA to reduce feature dimensions.
+
+### Ex9: Model Evaluation with Cross-Validation
+Evaluate the model developed in Ex8 using a 5-fold cross-validation approach.
+
+### Ex10: Tubed Patients to Predict Deaths
+Investigate predicting deaths using the number of tubed patients from previous days, incorporating PCA.
+
+
